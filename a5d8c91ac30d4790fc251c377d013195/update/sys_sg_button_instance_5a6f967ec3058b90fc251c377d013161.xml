@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (My To Dos)">926f967ec3058b90fc251c377d013147</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit</name>
+        <order/>
+        <parent>1e6f567ec3058b90fc251c377d0131d3</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-28 06:54:51</sys_created_on>
+        <sys_id>5a6f967ec3058b90fc251c377d013161</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="To Do" source="x_1963776_to_do">a5d8c91ac30d4790fc251c377d013195</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">a5d8c91ac30d4790fc251c377d013195</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5a6f967ec3058b90fc251c377d013161</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-28 06:54:51</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a6f967ec3058b90fc251c377d013161"/>
+</record_update>

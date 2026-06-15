@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="To Do Projects Data Item">ed6f927ec3058b90fc251c377d0131fb</data_item>
+        <interleaved_field/>
+        <name>b56fd27ec3058b90fc251c377d01312d Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-28 06:54:48</sys_created_on>
+        <sys_id>b16fd27ec3058b90fc251c377d013135</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b56fd27ec3058b90fc251c377d01312d Item Stream</sys_name>
+        <sys_package display_value="To Do" source="x_1963776_to_do">a5d8c91ac30d4790fc251c377d013195</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">a5d8c91ac30d4790fc251c377d013195</sys_scope>
+        <sys_update_name>sys_sg_item_stream_b16fd27ec3058b90fc251c377d013135</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-28 06:54:48</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

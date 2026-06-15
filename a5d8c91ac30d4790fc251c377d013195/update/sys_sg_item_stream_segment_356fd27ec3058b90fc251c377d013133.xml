@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>To Do Projects Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="To Do Projects">b56fd27ec3058b90fc251c377d01312d</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-28 06:54:48</sys_created_on>
+        <sys_id>356fd27ec3058b90fc251c377d013133</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Projects Item Stream Segment</sys_name>
+        <sys_package display_value="To Do" source="x_1963776_to_do">a5d8c91ac30d4790fc251c377d013195</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">a5d8c91ac30d4790fc251c377d013195</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_356fd27ec3058b90fc251c377d013133</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-28 06:54:48</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>
